@@ -3,7 +3,6 @@ import DirectoryMenu from "../../components/directory-menu/directory-menu.compon
 import "./homepage.styles.scss";
 
 const HomePage = (props) => {
-  console.log(props);
   return (
     <div className="homepage">
       <DirectoryMenu />
